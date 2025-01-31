@@ -1,2 +1,12 @@
-## JS Learning Path
-[Basics](./class-basics.js)
+## JS Classes Trail
+- [Basics](./class-basics.js)
+- Constructors
+  - [Default Constructor](./class-default-constructor.js)
+  - [More Constructors](./class-constructor.js)
+- Fields
+  - [Private Field](./class-private-field.js)
+  - [Getter Setter](./class-getter-setter.js)
+  - [Static](./class-statis.js)
+- Inheritance
+  - [Example 1](./class-inheritance-extends1.js)
+  - [Example 2](./class-inheritance-extends2.js)
